@@ -4,26 +4,43 @@
 }
 
 .main-page {
-    width: 980px;
-    background: bisque;
-    
+    width: 1200px;
+    background: rgb(239, 239, 239, 1);
+    height: 680px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.header-menu {
+    background: rgb(175, 175, 175);
+    height: 100px;
+    width: 90%;
     margin: 0 auto;
 }
+.items-menu {
+    list-style: none;
+    text-align: center;
+    font-size: 3em;
+    line-height: 80px;
+}
+
 
 .invert {
     background: #000;
     color: #fff;
     font-size: 2em;
 }
+
 .inline {
     display: inline;
 }
 
 .inline-block {
-    display: inline-block; 
+    display: inline-block;
 }
+
 .block {
-    display: block; 
+    display: block;
 }
 
 .bigger {
@@ -34,8 +51,7 @@
     margin: 20px;
 }
 
-.float-left 
-{
+.float-left {
     float: left;
 }
 
