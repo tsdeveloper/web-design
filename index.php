@@ -23,18 +23,13 @@
                 Dolorum hic totam, vero soluta corporis voluptatem quibusdam eaque possimus, tenetur ratione quisquam
                 cupiditate esse enim! Officia beatae minima dolores quia explicabo, culpa asperiores deleniti itaque?
                 Vitae facilis exercitationem error.</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit, qui suscipit modi nemo cumque, ipsa
-                eaque dolor sequi incidunt quidem delectus voluptates non quasi debitis sed illo. Omnis, distinctio
-                deleniti!
-                Debitis iste nemo officiis quaerat fuga a iure voluptatibus corrupti cupiditate perferendis consequuntur
-                doloremque, id odit neque alias illo quibusdam doloribus quam adipisci. Quae ducimus suscipit, mollitia
-                beatae necessitatibus quas!
-                Dolor quae, hic enim recusandae ad iusto esse explicabo laboriosam dolorum ratione pariatur porro
-                distinctio numquam cupiditate voluptatem voluptate deleniti blanditiis nemo, architecto illo libero
-                consequatur? Dolor provident eum natus.
-                Obcaecati, culpa. Unde debitis porro assumenda dolor non molestiae est, excepturi totam voluptatibus aut
-                repellendus adipisci, cum culpa id fugiat, at molestias quidem minus quam earum quisquam deserunt harum
-                iure!</p>
+                <div class="images">
+                <img class="float-left" src="https://www.colorbook.io/imagecreator.php?hex=0000ff&width=255&height=255&text=text">
+                <img class="float-left" src="https://www.colorbook.io/imagecreator.php?hex=4fcdff&width=255&height=255&text=text">
+                <img class="float-left" src="https://www.colorbook.io/imagecreator.php?hex=4fcbaa&width=255&height=255&text=text">
+                <div class="clear-fix"></div>
+                </div>
+            <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit, qui suscipit modi nemo cumque</div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem temporibus quasi enim quisquam? Illo
                 similique nihil est quis dignissimos quae ea eos pariatur. Enim fuga nobis necessitatibus temporibus,
                 dolore dolorem.
