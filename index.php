@@ -11,17 +11,20 @@
 
 <body>
     <main class="main-page">
-        <header class="header-menu">
+        <header class="header-menu c-grey align-center ">
             <nav class="menu">
                <ul class="items">
-                   <li class="items-menu">Header Menu</li>
+                   <li class="items-menu align-center">Header Menu 90%</li>
                </ul>
             </nav>
             <!-- /.menu -->
         </header>
         <!-- /.header-menu -->
 
-        
+        <section class="content c-grey align-center">
+            <h3>Content 50%</h3>
+        </section>
+        <!-- /.content -->
     </main>
     <!-- /.main-page -->
     

@@ -7,21 +7,37 @@
     width: 1200px;
     background: rgb(239, 239, 239, 1);
     height: 680px;
-    margin: 0 auto;
+
     vertical-align: middle;
+}
+.c-grey {
+    background: rgb(175, 175, 175);
+}
+
+.align-center {
+    text-align: center;
+    font-size: 2em;
+    line-height: 80px;
+    margin: 0 auto;
 }
 
 .header-menu {
-    background: rgb(175, 175, 175);
-    height: 100px;
-    width: 90%;
-    margin: 0 auto;
+    max-height: 100px;
+    max-width: 90%;
+ 
 }
-.items-menu {
+.menu {
+    height: 100%;
+    margin-bottom: 5px;
+}
+
+.items-menu {        
     list-style: none;
-    text-align: center;
-    font-size: 3em;
-    line-height: 80px;
+    
+}
+
+.content {
+    max-width: 50%;
 }
 
 
